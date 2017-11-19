@@ -1,0 +1,45 @@
+#logo
+{
+	text-align: center;
+	color: darkred;
+	font-size: 40pt;
+	margin: 0px;
+	font-family: serif;
+}
+#homep
+{
+color: darkred;
+}
+#title
+{
+	color: olive;
+	font-size: 20pt;
+	font-family: courier;
+}
+#foto
+{
+	clear: left;
+
+}
+body
+{
+	background-image: url(bg1.jpg); 
+}
+#description
+{
+	color: darkgray;
+	font-size: 14pt;
+	font-family: courier;
+}
+#releasedate
+{
+color: mediumaquamarine;
+font-size: 14pt;
+font-family: courier;
+}
+#genre
+{
+	color: teal;
+	font-size: 14pt;
+	font-family: courier;
+}
